@@ -1,0 +1,6 @@
+{
+  "reference_projects" : [ {
+    "project" : "SLIUTEST_NOREADME",
+    "branch" : "main"
+  } ]
+}
